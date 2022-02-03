@@ -2208,7 +2208,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   font-size: 1.3rem;
   line-height: 2.4rem;
   margin: .6rem 0 0;
-  color: rgba(255, 255, 255, 0.6);
+  color: white;
 }
 
 .lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover {
