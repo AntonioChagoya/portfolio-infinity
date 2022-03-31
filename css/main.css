@@ -2979,3 +2979,15 @@ footer h4.h05::after {
     display: none;
   }
 }
+
+
+/* 
+* Custom
+*/
+
+#testimonial-slider .button{
+  background-color: #06617D;
+}
+#testimonial-slider .button:hover{
+  opacity: .8;
+}
